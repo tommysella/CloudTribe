@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CTjKEi6BbAkdPqh8SlunqcKolBMgFfBa/KrS0PTKOU45c1BVqGrkY1JzhYuNIk3op2RJjIKuwX8B1mfoiuhurA==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\ACA\\CloudTribe\\CloudTribe.Backend\\CloudTribe.Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tselggre\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
+    "C:\\Users\\tselggre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

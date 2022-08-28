@@ -1,0 +1,7 @@
+C:\Dev\ACA\CloudTribe\CloudTribe.Backend\obj\Docker\publish\CloudTribe.Backend.exe
+C:\Dev\ACA\CloudTribe\CloudTribe.Backend\obj\Docker\publish\appsettings.Development.json
+C:\Dev\ACA\CloudTribe\CloudTribe.Backend\obj\Docker\publish\appsettings.json
+C:\Dev\ACA\CloudTribe\CloudTribe.Backend\obj\Docker\publish\CloudTribe.Backend.dll
+C:\Dev\ACA\CloudTribe\CloudTribe.Backend\obj\Docker\publish\CloudTribe.Backend.deps.json
+C:\Dev\ACA\CloudTribe\CloudTribe.Backend\obj\Docker\publish\CloudTribe.Backend.runtimeconfig.json
+C:\Dev\ACA\CloudTribe\CloudTribe.Backend\obj\Docker\publish\CloudTribe.Backend.pdb

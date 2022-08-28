@@ -1,0 +1,24 @@
+﻿@model IEnumerable<CloudTribe.Frontend.Models.TribeMember>
+@{
+    ViewData["Title"] = "Cloud Tribe Certifications";
+}
+
+<h3>Cloud Tribe Certifications</h3>
+
+<div>
+    <table class="table table-bordered">
+        <tr>
+            <th>Id </th>
+            <th>Name </th>
+            <th>Certifications </th>
+        </tr>
+        @foreach (var d in Model)
+        {
+            <tr>
+                <td>@d.Id</td>
+                <td>@d.Name</td>
+                <td>@d.Certifications</td>
+            </tr>
+        }
+    </table>
+</div>
